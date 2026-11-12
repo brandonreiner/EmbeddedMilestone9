@@ -1,6 +1,6 @@
 # Class Pancake Recipe
 
-Serves: 4
+Serves: 6
 
 ## Ingredients
 - 1 cup flour
